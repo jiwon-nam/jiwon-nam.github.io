@@ -22,13 +22,13 @@ repository               : "jiwon-nam/jiwon-nam.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiwon Nam"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D candidate at Univeristy of Delaware"
+  location         : "Newark, Delaware"
+  employer         : "Univeristy of Delaware"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jiwonnam@udel.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

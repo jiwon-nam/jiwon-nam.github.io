@@ -21,7 +21,7 @@ repository               : "jiwon-nam/jiwon-nam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "picture2.png"
   name             : "Jiwon Nam"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Candidate at Univeristy of Delaware"

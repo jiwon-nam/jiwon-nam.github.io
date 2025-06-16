@@ -3,7 +3,7 @@ title: "POS273 International Relations"
 collection: teaching
 type: "Teaching Assistant for Dr. Kristin Vekasi"
 permalink: /teaching/2018-fall-teaching-1
-venue: "University 1, Department"
+venue: "University of Maine, Political Science"
 date: 2018-01-01
 location: "Orono, Maine"
 ---

@@ -12,9 +12,15 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Heading 1
 ======
+- test list 1
+- test list 1
 
 Heading 2
 ======
++ test list 2
++ test list 2
 
 Heading 3
 ======
+* test list 3
+* test list 3

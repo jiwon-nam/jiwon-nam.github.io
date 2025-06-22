@@ -4,7 +4,7 @@ collection: research
 permalink: /research/2020-spring-research-1
 type: "research"
 venue: "The University of Delaware, Political Science"
-date: "Fall 2020 - Spring 2022"
+date: "2020"
 location: "Newark, Delaware"
 ---
 

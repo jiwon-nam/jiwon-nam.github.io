@@ -1,7 +1,9 @@
 ---
 title: "Research Assistant for Dr. David Redlawsk"
-excerpt: "Fall 2020 - Spring 2022"
-collection: research
+collection: teaching
+type: "Fall 2020 - Spring 2022"
+permalink: /teaching/2020-spring-teaching-1
+location: "Newark, Delaware"
 ---
 
 - Conducted sentiment analysis using speeches of 2016 and 2020 presidential candidates.

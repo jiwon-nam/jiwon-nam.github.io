@@ -1,10 +1,10 @@
 ---
 title: "Research Assistant for Dr. David Redlawsk"
 collection: research
-permalink: /research/2020-spring-research-1
 type: "test type information"
+permalink: /research/2020-spring-research-1
 venue: "The University of Delaware, Political Science"
-date: "2020-09-01"
+date: 2020-09-01
 location: "Newark, Delaware"
 ---
 

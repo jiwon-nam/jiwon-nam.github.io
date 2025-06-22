@@ -1,7 +1,6 @@
 ---
 title: "Research Assistant for Dr. David Redlawsk"
 collection: research
-type: "Research"
 permalink: /research/2020-spring-research-1
 exerpt: "exerpt: Fall 2020 - Spring 2022"
 venue: "The University of Delaware, Political Science"

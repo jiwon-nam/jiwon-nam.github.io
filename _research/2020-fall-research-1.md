@@ -2,7 +2,7 @@
 title: "Research Assistant for Dr. David Redlawsk"
 collection: research
 permalink: /research/2020-spring-research-1
-type: "research"
+type: "test type information"
 venue: "The University of Delaware, Political Science"
 date: "2020-09-01"
 location: "Newark, Delaware"
